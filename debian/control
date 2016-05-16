@@ -9,5 +9,5 @@ Homepage: https://github.com/netrunner-odroid/netrunner-full-c1-settings
 Package: netrunner-full-c1-settings
 Architecture: armhf
 Depends: netrunner-default-settings, novnc, ${misc:Depends}
-Description: settings for the ODROID
- Netrunner specific settings for the ODROID
+Description: netrunner-full edition settings for ODROID-C1
+ Netrunner Full specific settings for the ODROID-C1
